@@ -1,4 +1,4 @@
-# osm Scenario Downloader
+# OSM Scenario Downloader
 This repository contains the function to automatically export the OSM file of the outdoor scenario from the openstreetmap.org website and to store it locally.  
 It includes MATLAB scripts to demonstrate the function for dense urban, urban, and rural scenarios.     
 
