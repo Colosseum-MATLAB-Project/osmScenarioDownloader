@@ -1,6 +1,9 @@
 # OSM Scenario Downloader
 This repository contains the function to automatically export the OSM file of the outdoor scenario from the openstreetmap.org website and to store it locally.  
-It includes MATLAB scripts to demonstrate the function for dense urban, urban, and rural scenarios.     
+It includes MATLAB scripts to demonstrate the function for dense urban, urban, and rural scenarios.
+
+
+Please refer to [this repository](https://github.com/Colosseum-MATLAB-Project/channelSimulator) for comprehensive instructions on creating Colosseum RF scenarios using MATLAB ray-tracer.
 
 
 ## Acknowledgements
